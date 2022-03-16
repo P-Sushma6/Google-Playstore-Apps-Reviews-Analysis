@@ -1,2 +1,2 @@
-# Google-Playstore-Apps-Reviews-Analysis
-Analysing Google Playstore Apps Reviews
+# Google-Playstore-Apps-Analysis
+Analysing Google Playstore Apps 
